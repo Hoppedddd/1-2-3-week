@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+#container {
+    width: 960px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: -4px;
+}
+
+body {
+    margin: 0;
+}
+
+#left {
+    width: 200px;
+    height: 400px;
+    display: inline-block;
+    background-color: blueviolet;
+    vertical-align: top;
+}
+
+#content {
+    width: 200px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#right {
+    width: 200px;
+    height: 400px;
+    display: inline-block;
+    background-color: blueviolet;
+    margin-left: -4px;
+    vertical-align: top;
+}
+
+#content img {
+    width: 400px;
+    height: 300px;
+}

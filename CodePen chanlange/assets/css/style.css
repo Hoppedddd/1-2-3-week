@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    font-style: italic;
+    text-align: center;
+    background-image: linear-gradient(rgb(27, 144, 183),white,rgb(27, 144, 183));
+
+}
+
+#whyy {
+    height: 480px;
+    width: 320px;
+}
+
+#never {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
